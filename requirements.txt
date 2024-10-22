@@ -1,4 +1,4 @@
-torch==1.12.1  # or another version compatible with your code
+torch
 whisper
 gtts
 requests
