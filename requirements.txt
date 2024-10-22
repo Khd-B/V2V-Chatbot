@@ -1,5 +1,6 @@
-git+https://github.com/openai/whisper.git
+streamlit
+numpy
 gtts
 requests
-streamlit
-torch  # Optional: only if you need specific functionality
+torch
+git+https://github.com/openai/whisper.git
