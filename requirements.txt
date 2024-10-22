@@ -1,4 +1,5 @@
-openai-whisper
-gradio
+torch==1.12.1  # or another version compatible with your code
+whisper
 gtts
 requests
+streamlit
